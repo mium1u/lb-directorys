@@ -13,6 +13,5 @@ lab 3 (Система Координат) :
 https://github.com/mium1u/coordinate-system/tree/main
 
 lab 4 (Radar) :
-Виконано 01.10.24
-https://github.com/mium1u/radar
-
+Виконано 01.10.24 (перероблено 3.10.24)
+https://github.com/mium1u/lb-radar
