@@ -1,17 +1,17 @@
 # lb-directorys
 
-lab 1 (GitHowTo) :
+  GitHowTo :
 Виконано 28.08.24
 https://github.com/mium1u/GitHowTo
 
-lab 2 (Docker) :
+  Docker :
 Виконано 05.09.24
 https://github.com/mium1u/Docker
 
-lab 3 (Система Координат) :
+  Система Координат :
 Виконано 02.10.24
 https://github.com/mium1u/coordinate-system/tree/main
 
-lab 4 (Radar) :
-Виконано 01.10.24 (перероблено 3.10.24)
-https://github.com/mium1u/lb-radar
+  Radar :
+Виконано 09.10.24
+
