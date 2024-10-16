@@ -19,3 +19,7 @@ https://github.com/mium1u/LBradar
   GPS :
 Виконано 10.10.24
 https://github.com/mium1u/gps
+
+  Kalman :
+Виконано 16.10.24
+https://github.com/mium1u/kalman 
